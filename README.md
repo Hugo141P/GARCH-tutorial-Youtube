@@ -1,8 +1,8 @@
 # GARCH tutorial series 
 For questions, please leave a comment under the Youtube video.
 
-First create a venv:
-```python3 -m /venv```
+First create a venv: (linux)
+```python3 -m venv /root/garch-tutorial-youtube/venv```
 Or the corresponding commands that work on your system.
 Install dependencies:
 ```pip install -r requirements.txt```
