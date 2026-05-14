@@ -2,3 +2,5 @@
 venv
 env
 .env
+*.png
+__pycache__
